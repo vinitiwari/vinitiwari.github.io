@@ -1,6 +1,4 @@
-jQuery(document).ready(function($){
-
-//$(document).ready(function() {
+$(document).ready(function() {
   var getProductHeight = $('.product.active').height();
 
   $('.products').css({
